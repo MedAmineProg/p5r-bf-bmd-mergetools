@@ -1,0 +1,9 @@
+{
+  "ModsRoot": "<path to your Reloaded-II Mods folder, e.g. C:\\Users\\you\\Reloaded-II\\Mods>",
+  "OutRoot": "<where converted mods should be written, e.g. C:\\p5r-mergeable-output>",
+  "BaseCpkPath": "<path to BASE.CPK, e.g. D:\\SteamLibrary\\steamapps\\common\\P5R\\CPK\\BASE.CPK>",
+  "EnCpkPath": "<path to EN.CPK (or your locale's CPK), e.g. D:\\...\\CPK\\EN.CPK>",
+  "CompilerExe": "<path to AtlusScriptCompiler.exe>",
+  "PakPackExe": "<path to PAKPack.exe (only needed for PAK-nested BMD conversion)>",
+  "TempRoot": "<a scratch directory for temporary decompile output, e.g. C:\\p5r-convert-tmp>"
+}
